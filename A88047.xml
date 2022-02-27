@@ -1,0 +1,169 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter written upon occasion from the Low-countries, concerning a difference, betwixt the Prince of Orange, and the states, shewing upon what occasion it grew. Whereunto is added, aviso's from severall places, of the taking of the Iland of Providence, by the Spaniard, from the English.</title>
+            <author>La Fin, Charles de.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88047</idno>
+            <idno type="STC">Wing L176</idno>
+            <idno type="STC">Thomason E141_10</idno>
+            <idno type="STC">ESTC R212742</idno>
+            <idno type="EEBO-CITATION">99871318</idno>
+            <idno type="PROQUEST">99871318</idno>
+            <idno type="VID">156558</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88047)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156558)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 25:E141[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter written upon occasion from the Low-countries, concerning a difference, betwixt the Prince of Orange, and the states, shewing upon what occasion it grew. Whereunto is added, aviso's from severall places, of the taking of the Iland of Providence, by the Spaniard, from the English.</title>
+                  <author>La Fin, Charles de.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Nath. Butter,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>March, 22. 1641 [i.e. 1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on page 4: Charles de la Fin.</note>
+                  <note>Wing has publication year 1641[2]; Thomason catalogue lists under 1642.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Netherlands --  History --  Wars of Independence, 1556-1648 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156558:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 13 -->
+            <p>A LETTER WRITTEN <g ref="char:V">Ʋ</g>PON OCCASION from the Low-countries, Concerning a difference, betwixt the Prince of <hi>Orange,</hi> and the States, ſhewing upon what occaſion it grew.</p>
+            <p>
+               <hi>Whereunto is added,</hi> Aviſo's from ſeverall places, of the taking of the Iland of Providence, by the <hi>Spaniard,</hi> from the <hi>Engliſh.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Nath: Butter, March,</hi> 22. 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:156558:2"/>
+            <!-- PDF PAGE 14 -->
+            <pb n="1" facs="tcp:156558:2"/>
+            <!-- PDF PAGE 14 -->
+            <head>Hage, March the 20. <hi>ſtilo novo.</hi> THE COPIE OF A Letter written from <hi>Charles de la Fin,</hi> Page unto the young Prince of <hi>Orange,</hi> unto <hi>Iames de La Fin</hi> his brother, Secretary unto the Duke of <hi>Vallette,</hi> reſiding now in <hi>Coven-garden,</hi> touching the late proceedings of the Prince of <hi>Orange.</hi>
+            </head>
+            <head type="sub">Written from the <hi>Hage</hi> in Italian, and tranſlated by William Vmfrevile, <hi>Gent.</hi> March. <hi>14. 1641.</hi>
+            </head>
+            <opener>
+               <salute>Brother,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>S I am acquainted from you with the ſtate of things in <hi>England,</hi> ſo let me impart unto you ſome alte<g ref="char:EOLhyphen"/>rations here, that more near touch us: Grave <hi>Henry</hi> our Prince, and Maſter, by ſome information, from <hi>Martin Van Trumpe,</hi> the States Admirall, is
+<pb n="2" facs="tcp:156558:3"/>
+               <!-- PDF PAGE 15 -->fallen into ſome more then diſtruſt with the States, in matter of his proceedings in the Army, their jealouſies brake forth into open diſcontent, upon occaſion of a meeting of a great crue of his Com<g ref="char:EOLhyphen"/>manders, at a ſupper in <hi>Fluſhing,</hi> upon the arrivall of the Queene of Great <hi>Britaine,</hi> where his health being drunke before the Lords Generall, the Bourgemaſters of the Towne, took great excep<g ref="char:EOLhyphen"/>tions at it, giving out that the Prince of <hi>Orange</hi> was but their ſervant, and tooke pay of them, as well as the meaneſt ſouldier in the Army; that it was diſorderly done, to drinke his health before his betters: to whom replyed <hi>Mounſieur de Varraca<g ref="char:EOLhyphen"/>ville,</hi> a French Captaine of Horſe; that he truſted the Prince his Maſter ſo wel underſtood himſelfe, that having married his ſonne to the eldeſt daugh<g ref="char:EOLhyphen"/>ter of the King of great <hi>Brittaine,</hi> he would ſcorne to be counted, much more to bee termed, the ſer<g ref="char:EOLhyphen"/>vant of Brewers and Bakers, and Felt-makers: hereupon the Burgemaſters ſurlily, and ſaucily re<g ref="char:EOLhyphen"/>plyed, that taking their allowance, he was either a true ſervant, or a falſe Traytor.</p>
+            <p>
+               <hi>Varracaville</hi> was riſing to let fly at him: and ſome others were as ready as hee; but noiſe and tumult ariſing, the Governour of the Towne came in, and commanded all to bee quiet, great muttering was in the Towne, the next two dayes about it: on the third, the Prince was ſummoned to the <hi>Hage</hi> to make his appearance before the States Generall, to make anſwer unto ſuch things, as ſhould by <hi>Martin Van' Trumpe, Iohn Van Eſlerdort</hi> bee laid againſt him. His Highneſſe tooke ſuch
+<pb n="3" facs="tcp:156558:3"/>
+               <!-- PDF PAGE 15 -->homely dealing bad, and his ſervants worſe: his Army worſt of all, who ſummoning a Counſell of warre to his Highneſſe lodging; plainely told him, that except hee would, hee ſhould not goe, and that they ſhould know, that if they had mo<g ref="char:EOLhyphen"/>ney, they had ſwords; and that they having com<g ref="char:EOLhyphen"/>mand of the one, would not be long without the other, and that ſhould ſhortly appeare; hereupon wee all, as well ſervants, as Commanders, tooke an oath unto His Highneſſe, and his ſonne, to ſerve them towards all, and againſt all; which ta<g ref="char:EOLhyphen"/>ken upon mature deliberation, it was ordered by His Highneſſe himſelfe, becauſe of the Queene of great Brittaines preſence to goe to the <hi>Hage,</hi> but not to take notice of any ſummons, and with ſuch a company with him, that he ſhould not greatly need to fear them; and here we are in that poſture, not caring for thoſe that looke ſo big upon us: I truſt the Army is wholly made for His Highneſſe; not being deſired of their ſervice, but freely offe<g ref="char:EOLhyphen"/>ring it: We his ſervants, and thoſe of my young Maſters, are reſolued to ſee our end ſhortly ac<g ref="char:EOLhyphen"/>compliſhed, or to die every man of us: I truſt there are no falſe parties in the Armie, then before <hi>May</hi> day I hope wee ſhall ſee an alteration: and thoſe that hold themſelves our maſters, ſhall bee glad to give us all fitting reſpect: the King of <hi>Denmarke</hi> is aſſuredly for it, and hath promiſed both coine, men, and ſhipping: <hi>France</hi> hearkens to it, and <hi>Spaine</hi> upon ſome conditions, will yeeld aſſiſtance; it is more honourable for a Prince to be tyed in ſome ceremonious concernments unto
+<pb n="4" facs="tcp:156558:4"/>
+               <!-- PDF PAGE 16 -->a Monarch, then to any other, either by Demo<g ref="char:EOLhyphen"/>craſticall, or Ariſtocraticall Government<g ref="char:punc">▪</g> more pleaſant tydings I hope to write you, at the Queenes returne, if not before; for this muſt not be long in doing, and it is here thought, that ſhee will not ſtay long here, by reaſon that theſe at<g ref="char:EOLhyphen"/>chievements cannot long remaine without a period, nor without ſome bickering, we hold it not fit, ſhee ſhould bee eye witneſſe of it: His High<g ref="char:EOLhyphen"/>neſſe, although hee is counſelled to ſend away ſpeedily his young ſonne; and our hope, into <hi>France,</hi> yet hee will not, but is reſolved, that hee ſhall partake of his fortune, what ever it be; I hope wee ſhall ſhortly cry, <hi>Vivez Oraneye;</hi> and in this expectation, wiſhing heaven to ſay Amen un<g ref="char:EOLhyphen"/>to it.</p>
+            <closer>
+               <signed>I reſt from the <hi>Hage,</hi> your ever affectionate Brother, <hi>Charles de la Fin.</hi>
+               </signed>
+               <date>
+                  <hi>This preſent March.</hi> 20. <hi>new ſtile.</hi>
+               </date>
+            </closer>
+         </div>
+         <div type="part">
+            <pb n="5" facs="tcp:156558:4"/>
+            <!-- PDF PAGE 16 -->
+            <head>Aviſoes from ſeverall places.</head>
+            <p>THe 20. of <hi>Decem. ſtilo novo,</hi> arrived at St. <hi>Lucar</hi> the Admiral of the <hi>Nova Spania's</hi> Fleet, in com<g ref="char:EOLhyphen"/>pany of another ſmall ſhip; they came in 91. dayes from the <hi>Havana,</hi> and were parted by a ſtorm from the reſt of the Fleet 12. days after their ſetting forth. I ſuppoſe they may be arrived at <hi>Porto Rico,</hi> for they had moſt of them ſpent their maſts. The ſaid Admiral was caſt away in the going into St. <hi>Lucar,</hi> of 4. millions, which he brought, about 1.½ million loſt; the whole Fleet worth 10. or 11. millions, the richeſt that ever was knowne; in the ſaid Admirall was loſt 500. Cheſts of Cuchinill, and a 1000. Cheſts of Indigo, with a great quantity of other goods. I have Letters by an Aviſo from Carta<g ref="char:EOLhyphen"/>gena, dated the 14. of <hi>September,</hi> wherein they adviſe that the Gallions were ready laden with the filver, and would depart thence the 6. of <hi>October.</hi> The General of the gallions, named <hi>Franciſco Dia<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Pimienta,</hi> had beene formerly in the moneth of <hi>Iuly,</hi> with above 3000. men, and the leaſt of his ſhips in the Iland of <hi>Santa Catalina,</hi> which he had taken and carried away all the Engliſh, and raſed the Forts, wherein they found 600. Negres, much gold and Indigo, ſo that the prize is eſtee<g ref="char:EOLhyphen"/>med, worth above halfe a million.</p>
+            <p>This unexpected, and undeſerved act of the <hi>Spaniard,</hi> in ſupplanting our Nation, will I hope ere long be requited, when as in coole blood the Spaniard ſhall doe us a miſchiefe, in demoliſh<g ref="char:EOLhyphen"/>ing, and ruining that which another hath built, and is not able, or will not make uſe of it himſelfe
+<pb n="6" facs="tcp:156558:5"/>
+               <!-- PDF PAGE 17 -->ſupplanting our more induſtrious people, which endeavoured to doe good, both to the bodyes and ſoules of men, and only to ſhew his greatneſſe, with his multitude to deſtroy a handfull, and to account that a victory, which is rather a credilous treachery: but let him triumph that wins at laſt.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
